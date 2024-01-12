@@ -1,0 +1,8 @@
+@inproceedings{REPO273,
+    author = "Ling, Chen and Jiang, Junji and Wang, Junxiang and Thai, My T and Xue, Renhao and Song, James and Qiu, Meikang and Zhao, Liang",
+    booktitle = "International Conference on Machine Learning",
+    organization = "PMLR",
+    pages = "21350--21361",
+    title = "{ Deep Graph Representation Learning and Optimization for Influence Maximization}",
+    year = "2023"
+}
